@@ -1,0 +1,14 @@
+untuk memasukkan alamat email maka dapat menggunakan 
+
+
+<a href ="mailto:email@gmail.com?subject=text ">pkmgrha2021@gmail.com</a>
+
+
+
+catatan : 
+
+Partner  Grha Block : 
+
+1. Pihak  3D Printing
+2. Pihak  Packaging 
+3. Pihak  penyedia aksesoris  bundling
